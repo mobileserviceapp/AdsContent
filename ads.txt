@@ -1,1 +1,1 @@
-{“ads_image”:”https://raw.githubusercontent.com/dnhieu89/AdsContent/master/newApp.png”,”app_store_path”:”https://itunes.apple.com/vn/app/how-to-draw-pokemon/id820998350?mt=8”,”app_package”:””,”app_name”:””}
+{"ads_image":"https://raw.githubusercontent.com/dnhieu89/AdsContent/master/newApp.png","app_store_path":"https://itunes.apple.com/vn/app/how-to-draw-pokemon/id820998350?mt=8","app_package":"","app_name":""}
